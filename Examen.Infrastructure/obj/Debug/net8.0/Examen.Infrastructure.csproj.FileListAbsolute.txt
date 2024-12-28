@@ -1,0 +1,34 @@
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.deps.json
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.runtimeconfig.json
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.dll
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.pdb
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\bin\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\bin\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\Examen.I.82EBB984.Up2Date
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.dll
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\refint\Examen.Infrastructure.dll
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.pdb
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.genruntimeconfig.cache
+C:\Users\Asus\OneDrive - ESPRIT\Bureau\ExamenNomPrenom\Examen.Infrastructure\obj\Debug\net8.0\ref\Examen.Infrastructure.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.deps.json
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.runtimeconfig.json
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.pdb
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\bin\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\bin\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfo.cs
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\Examen.I.82EBB984.Up2Date
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\refint\Examen.Infrastructure.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.pdb
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.genruntimeconfig.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.Infrastructure\obj\Debug\net8.0\ref\Examen.Infrastructure.dll
