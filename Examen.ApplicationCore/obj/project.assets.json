@@ -599,11 +599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
       "projectName": "Examen.ApplicationCore",
-      "projectPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\medfa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\medfa\\AppData\\Roaming\\NuGet\\NuGet.Config",

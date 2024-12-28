@@ -1,41 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\",
+  "WorkspaceRootPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30D92336-B47B-41BE-9047-62CADE75D3EB}|Examen.Console\\Examen.Console.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\squelette_examen\\examennomprenom - squelette\\examen.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30D92336-B47B-41BE-9047-62CADE75D3EB}|Examen.Console\\Examen.Console.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.console\\examen.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30D92336-B47B-41BE-9047-62CADE75D3EB}|Examen.Console\\Examen.Console.csproj|solutionrelative:examen.console\\examen.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.applicationcore\\examen.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\examen.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D92336-B47B-41BE-9047-62CADE75D3EB}|Examen.Console\\Examen.Console.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30D92336-B47B-41BE-9047-62CADE75D3EB}|Examen.Console\\Examen.Console.csproj|solutionrelative:examen.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\squelette_examen\\examennomprenom - squelette\\examen.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\squelette_examen\\examennomprenom - squelette\\examen.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\squelette_examen\\examennomprenom - squelette\\examen.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\squelette_examen\\examennomprenom - squelette\\examen.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\squelette_examen\\examennomprenom - squelette\\examen.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\squelette_examen\\examennomprenom - squelette\\examen.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\squelette_examen\\examennomprenom - squelette\\examen.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{893B0302-FAC7-40FB-B688-1FCDDF540B06}|Examen.Web\\Examen.Web.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\squelette_examen\\examennomprenom - squelette\\examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{893B0302-FAC7-40FB-B688-1FCDDF540B06}|Examen.Web\\Examen.Web.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examensquellette.net\\examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{893B0302-FAC7-40FB-B688-1FCDDF540B06}|Examen.Web\\Examen.Web.csproj|solutionrelative:examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,19 +54,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Examen.Console",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Console\\Examen.Console.csproj",
+              "RelativeDocumentMoniker": "Examen.Console\\Examen.Console.csproj",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Console\\Examen.Console.csproj",
+              "RelativeToolTip": "Examen.Console\\Examen.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T14:57:37.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Examen.ApplicationCore",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+              "RelativeToolTip": "Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T14:56:12.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Console\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Console\\Program.cs",
               "RelativeDocumentMoniker": "Examen.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Console\\Program.cs",
               "RelativeToolTip": "Examen.Console\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,24 +105,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\Services\\Service.cs",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Services\\Service.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\Service.cs",
-              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Services\\Service.cs",
               "RelativeToolTip": "Examen.ApplicationCore\\Services\\Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T14:27:30.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T14:27:30.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
               "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,11 +129,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\Interfaces\\IService.cs",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Interfaces\\IService.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IService.cs",
-              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Interfaces\\IService.cs",
               "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,11 +141,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
               "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,11 +153,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AMContext.cs",
-              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Infrastructure\\AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Infrastructure\\AMContext.cs",
               "RelativeDocumentMoniker": "Examen.Infrastructure\\AMContext.cs",
-              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Infrastructure\\AMContext.cs",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Infrastructure\\AMContext.cs",
               "RelativeToolTip": "Examen.Infrastructure\\AMContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -128,11 +165,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Infrastructure\\UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Infrastructure\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Examen.Infrastructure\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Infrastructure\\UnitOfWork.cs",
               "RelativeToolTip": "Examen.Infrastructure\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +177,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Infrastructure\\GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Infrastructure\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Examen.Infrastructure\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Infrastructure\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Infrastructure\\GenericRepository.cs",
               "RelativeToolTip": "Examen.Infrastructure\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,11 +189,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Web\\Program.cs",
               "RelativeDocumentMoniker": "Examen.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Web\\Program.cs",
               "RelativeToolTip": "Examen.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

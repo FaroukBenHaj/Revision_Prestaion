@@ -22,3 +22,16 @@ C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\Exa
 C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.ApplicationCore\obj\Debug\net8.0\refint\Examen.ApplicationCore.dll
 C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.pdb
 C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Squelette_examen\ExamenNomPrenom - Squelette\Examen.ApplicationCore\obj\Debug\net8.0\ref\Examen.ApplicationCore.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.deps.json
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.sourcelink.json
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\obj\Debug\net8.0\refint\Examen.ApplicationCore.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\ExamenSquellette.Net\Examen.ApplicationCore\obj\Debug\net8.0\ref\Examen.ApplicationCore.dll

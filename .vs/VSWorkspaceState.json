@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Examen.Console",
     "\\Examen.Web"
   ],
-  "SelectedNode": "\\Examen.Web\\Program.cs",
+  "SelectedNode": "\\Examen.Console\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

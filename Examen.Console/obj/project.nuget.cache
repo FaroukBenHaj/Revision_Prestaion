@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R5SzNcmsLzk=",
+  "dgSpecHash": "pBfjMnka1eA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Squelette_examen\\ExamenNomPrenom - Squelette\\Examen.Console\\Examen.Console.csproj",
+  "projectFilePath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Console\\Examen.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\medfa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\medfa\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
