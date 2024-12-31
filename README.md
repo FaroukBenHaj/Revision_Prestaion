@@ -70,7 +70,7 @@
 <h2>Instructions d’Utilisation</h2>
 <ol>
     <li><strong>Cloner le dépôt :</strong>
-        <pre><code>git clone &lt;&gt;</code></pre>
+        <pre><code>git clone &lt; https://github.com/FaroukBenHaj/Revision_Prestaion.git &gt;</code></pre>
     </li>
     <li><strong>Basculer sur la branche master pour travailler :</strong>
         <pre><code>git checkout master</code></pre>
