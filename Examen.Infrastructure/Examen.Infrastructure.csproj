@@ -20,8 +20,4 @@
     <ProjectReference Include="..\Examen.ApplicationCore\Examen.ApplicationCore.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Configurations\" />
-  </ItemGroup>
-
 </Project>

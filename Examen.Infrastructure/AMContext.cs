@@ -7,6 +7,11 @@ using System.Threading.Tasks;
 
 namespace AM.Infrastructure
 {
+
+    /**
+     * Sans Utiliser les classes de configurations 
+     * |-> Dans ce cas on utillise la classe contexte 
+     */
     public class AMContext : DbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z0j8K5hpQqw=",
+  "dgSpecHash": "eShFeIGBiTw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+  "projectFilePath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\medfa\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "C:\\Users\\medfa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",

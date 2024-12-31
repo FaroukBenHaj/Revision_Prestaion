@@ -4890,11 +4890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
       "projectName": "Examen.Infrastructure",
-      "projectPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\medfa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\medfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4912,8 +4912,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenSquellette.Net\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
+            "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
             }
           }
         }
