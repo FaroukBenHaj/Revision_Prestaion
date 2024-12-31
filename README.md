@@ -2,8 +2,7 @@
 
 <h2>Structure du Dépôt</h2>
 <ul>
-    <li><strong>essay_1</strong> : Implémentation des entités et des relations avec Entity Framework.</li>
-    <li><strong>essay_2</strong> : Implémentation des services et des vues ASP.NET MVC.</li>
+    <li><strong>master</strong> : Contient toutes les modifications consolidées pour le projet.</li>
 </ul>
 
 <h2>Objectifs de l'Examen</h2>
@@ -71,11 +70,10 @@
 <h2>Instructions d’Utilisation</h2>
 <ol>
     <li><strong>Cloner le dépôt :</strong>
-        <pre><code>git clone &lt;url-du-dépôt&gt;</code></pre>
+        <pre><code>git clone &lt;&gt;</code></pre>
     </li>
-    <li><strong>Basculer entre les branches pour explorer différents aspects du projet :</strong>
-        <pre><code>git checkout essay_1
-        git checkout essay_2</code></pre>
+    <li><strong>Basculer sur la branche master pour travailler :</strong>
+        <pre><code>git checkout master</code></pre>
     </li>
     <li><strong>Configurer la base de données :</strong>
         <ul>
