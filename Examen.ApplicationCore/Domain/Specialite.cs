@@ -25,7 +25,7 @@ namespace Examen.ApplicationCore.Domain
         public Intitule Intitule { get; set; }
 
         //Une Relation ManyToOne 
-        public virtual ICollection<Prestataire>  Prestataires {get; set;}j
+        public virtual ICollection<Prestataire>  Prestataires {get; set;}
 
     }
 }

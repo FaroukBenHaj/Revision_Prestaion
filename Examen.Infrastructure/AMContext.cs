@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Examen.ApplicationCore.Domain;
+using Examen.Infrastructure.Configurations;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +10,7 @@ using System.Threading.Tasks;
 namespace AM.Infrastructure
 {
 
-    /**
+    /*
      * Sans Utiliser les classes de configurations 
      * |-> Dans ce cas on utillise la classe contexte 
      */
@@ -19,13 +21,15 @@ namespace AM.Infrastructure
             optionsBuilder.UseLazyLoadingProxies();
 
             optionsBuilder.UseSqlServer(@"Data Source=(localdb)\mssqllocaldb;
-Initial Catalog=ExamenDB;Integrated Security=true");
+            Initial Catalog=MohamedFaroukBenHajAmorPrestataire;Integrated Security=true");
             base.OnConfiguring(optionsBuilder);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.ApplyConfiguration(new FlightConfiguration());
+            //Appele à  la classe de configuration au cas ou on a un eclasse
+
+            modelBuilder.ApplyConfiguration(new PrestationConfiguration());
             //modelBuilder.ApplyConfiguration(new PlaneConfiguration());
             //modelBuilder.ApplyConfiguration(new PassengerConfiguration());
             //modelBuilder.Entity<Staff>().ToTable("Staffs");
@@ -40,13 +44,22 @@ Initial Catalog=ExamenDB;Integrated Security=true");
 
             //configurationBuilder.Properties<String>().HaveMaxLength(50);
         }
+    //Les requetes 
+        public DbSet<Client> Clients { get; set; }
+        public DbSet<Prestataire> Prestataires { get; set; }
+        public DbSet<Prestation>  Prestations { get; set; }
+        public DbSet<Specialite> Specialites { get; set; }
+      //public DbSet<Staff> Staff { get; set; }
 
-
-        //public DbSet<Flight> Flights { get; set; }
-        //public DbSet<Passenger> Passengers { get; set; }
-        //public DbSet<Plane> Planes { get; set; }
-        //public DbSet<Traveller> Travellers { get; set; }
-        //public DbSet<Staff> Staff { get; set; }
-
+        /*
+         *Afin d'acceder la console du gestionnaire du Package on clique sur : 
+         *|-> Tools 
+         *  |->Nuget Package Manager 
+         *         |-> Package Manager Console 
+         *          |-> Pointé sur examen.Infrastructure 
+         *                  |-> PM>add-migration M1
+         *                      
+         *                      
+         */
     }
 }

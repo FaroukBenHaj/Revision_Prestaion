@@ -10,12 +10,9 @@ namespace Examen.ApplicationCore.Domain
     //On doit remplacer tjrs Internal par public 
     public class Client
     {
-        public string Adresse { get; set; }
-        
+        public  Coordonnees Coordonnes { get; set; }
         public int ClientId { get; set; }
-        public string  Nom { get; set; }
-        public string  Prenom { get; set; }
-        public  string Tel { get; set; }
+        
         public virtual ICollection<Prestation> Prestations { get; set; }
 
     }
