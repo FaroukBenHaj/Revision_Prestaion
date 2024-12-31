@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\Migrations\\20241231160749_migration_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen.Infrastructure\\Migrations\\20241231160749_migration_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examenprestation\\examen.applicationcore\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E2F8E48-64B9-4A4A-85F6-737338265762}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,6 +69,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{893B0302-FAC7-40FB-B688-1FCDDF540B06}|Examen.Web\\Examen.Web.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examenprestation\\examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{893B0302-FAC7-40FB-B688-1FCDDF540B06}|Examen.Web\\Examen.Web.csproj|solutionrelative:examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\medfa\\desktop\\cycle_ingenieur\\esprit\\4sae5\\arch s1\\revision\\examenprestation\\examen.infrastructure\\migrations\\20241231160749_migration_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31153BFE-468C-432E-BF4A-A5AD3996DAE1}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\migrations\\20241231160749_migration_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,20 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20241231160749_migration_2.cs",
-              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\Migrations\\20241231160749_migration_2.cs",
-              "RelativeDocumentMoniker": "Examen.Infrastructure\\Migrations\\20241231160749_migration_2.cs",
-              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\Migrations\\20241231160749_migration_2.cs",
-              "RelativeToolTip": "Examen.Infrastructure\\Migrations\\20241231160749_migration_2.cs",
-              "ViewState": "AgIAAAMAAACAZWZmZuYswAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T16:07:49.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Coordonnees.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Domain\\Coordonnees.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Coordonnees.cs",
@@ -111,12 +98,11 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Coordonnees.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T15:59:20.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T15:59:20.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PrestationConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\Configurations\\PrestationConfiguration.cs",
               "RelativeDocumentMoniker": "Examen.Infrastructure\\Configurations\\PrestationConfiguration.cs",
@@ -124,12 +110,11 @@
               "RelativeToolTip": "Examen.Infrastructure\\Configurations\\PrestationConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T12:49:14.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T12:49:14.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Prestation.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Domain\\Prestation.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Prestation.cs",
@@ -137,8 +122,7 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Prestation.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:36:11.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T15:36:11.138Z"
             },
             {
               "$type": "Document",
@@ -148,14 +132,26 @@
               "RelativeDocumentMoniker": "Examen.Infrastructure\\AMContext.cs",
               "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\AMContext.cs",
               "RelativeToolTip": "Examen.Infrastructure\\AMContext.cs",
-              "ViewState": "AgIAAAkAAACAZmZmZmYSwCIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAACAZmZmZmYSwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T09:11:27.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
+              "Title": "20241231160749_migration_2.cs",
+              "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\Migrations\\20241231160749_migration_2.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Migrations\\20241231160749_migration_2.cs",
+              "ToolTip": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\Migrations\\20241231160749_migration_2.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Migrations\\20241231160749_migration_2.cs",
+              "ViewState": "AgIAAAMAAACAZWZmZuYswAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T16:07:49.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Prestataire.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Domain\\Prestataire.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Prestataire.cs",
@@ -163,12 +159,11 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Prestataire.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:35:51.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T15:35:51.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Domain\\Client.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Client.cs",
@@ -176,12 +171,11 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:35:18.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T15:35:18.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Specialite.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Domain\\Specialite.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Specialite.cs",
@@ -189,12 +183,11 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Specialite.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAIAwwBsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:36:47.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T15:36:47.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Examen.Console.csproj",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Console\\Examen.Console.csproj",
               "RelativeDocumentMoniker": "Examen.Console\\Examen.Console.csproj",
@@ -202,12 +195,11 @@
               "RelativeToolTip": "Examen.Console\\Examen.Console.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-28T14:57:37.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T14:57:37.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Examen.ApplicationCore.csproj",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
@@ -215,12 +207,11 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-28T14:56:12.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T14:56:12.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Console\\Program.cs",
               "RelativeDocumentMoniker": "Examen.Console\\Program.cs",
@@ -228,12 +219,11 @@
               "RelativeToolTip": "Examen.Console\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T14:33:31.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T14:33:31.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Services\\Service.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\Service.cs",
@@ -241,12 +231,11 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Services\\Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T14:27:30.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T14:27:30.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
@@ -254,12 +243,11 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T14:27:29.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T14:27:29.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Interfaces\\IService.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IService.cs",
@@ -267,12 +255,11 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T14:27:28.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T14:27:28.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
@@ -280,12 +267,11 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T14:27:27.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T14:27:27.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Examen.Infrastructure\\UnitOfWork.cs",
@@ -293,12 +279,11 @@
               "RelativeToolTip": "Examen.Infrastructure\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:11:38.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T09:11:38.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Infrastructure\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Examen.Infrastructure\\GenericRepository.cs",
@@ -306,12 +291,11 @@
               "RelativeToolTip": "Examen.Infrastructure\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:11:31.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T09:11:31.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\medfa\\Desktop\\Cycle_ingenieur\\Esprit\\4SAE5\\Arch S1\\Revision\\ExamenPrestation\\Examen.Web\\Program.cs",
               "RelativeDocumentMoniker": "Examen.Web\\Program.cs",
@@ -319,8 +303,7 @@
               "RelativeToolTip": "Examen.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:10:56.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T09:10:56.927Z"
             }
           ]
         }
