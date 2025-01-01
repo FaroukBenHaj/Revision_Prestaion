@@ -21,4 +21,8 @@
     <ProjectReference Include="..\Examen.Infrastructure\Examen.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Prestation\" />
+  </ItemGroup>
+
 </Project>

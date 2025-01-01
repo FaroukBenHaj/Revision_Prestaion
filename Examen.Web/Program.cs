@@ -1,14 +1,19 @@
 using AM.ApplicationCore.Interfaces;
 using AM.Infrastructure;
+using Examen.ApplicationCore.Interfaces;
+using Examen.ApplicationCore.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+// Injection de dépendance
 builder.Services.AddDbContext<DbContext, AMContext>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-//builder.Services.AddScoped<IServiceFlight, ServiceFlight>();
+//Ajout du prestataire service 
+builder.Services.AddScoped<IPrestataireService, PrestataireService>();
+
 //builder.Services.AddScoped<IServicePlane, ServicePlane>();
 builder.Services.AddSingleton<Type>(t => typeof(GenericRepository<>));
 var app = builder.Build();
