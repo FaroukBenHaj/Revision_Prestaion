@@ -97,6 +97,3 @@
 
 <h2>Contribution</h2>
 <p>Ce dépôt est destiné à un usage individuel pour la pratique. Toute suggestion ou question est la bienvenue.</p>
-
-<hr>
-<p>Bonne chance pour votre examen et bonne pratique ! 🎉</p>
