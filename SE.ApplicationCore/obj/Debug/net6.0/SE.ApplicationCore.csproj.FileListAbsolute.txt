@@ -1,0 +1,36 @@
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\bin\Debug\net6.0\SE.ApplicationCore.deps.json
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\bin\Debug\net6.0\SE.ApplicationCore.dll
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\bin\Debug\net6.0\SE.ApplicationCore.pdb
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.dll
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\refint\SE.ApplicationCore.dll
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.pdb
+C:\Users\Asus\Desktop\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\ref\SE.ApplicationCore.dll
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\bin\Debug\net6.0\SE.ApplicationCore.deps.json
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\bin\Debug\net6.0\SE.ApplicationCore.dll
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\bin\Debug\net6.0\SE.ApplicationCore.pdb
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.AssemblyInfo.cs
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.dll
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\refint\SE.ApplicationCore.dll
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.pdb
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.ApplicationCore\obj\Debug\net6.0\ref\SE.ApplicationCore.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\bin\Debug\net6.0\SE.ApplicationCore.deps.json
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\bin\Debug\net6.0\SE.ApplicationCore.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\bin\Debug\net6.0\SE.ApplicationCore.pdb
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.AssemblyInfo.cs
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\obj\Debug\net6.0\refint\SE.ApplicationCore.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\obj\Debug\net6.0\SE.ApplicationCore.pdb
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.ApplicationCore\obj\Debug\net6.0\ref\SE.ApplicationCore.dll

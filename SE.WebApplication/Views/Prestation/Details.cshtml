@@ -1,0 +1,54 @@
+﻿@model SE.ApplicationCore.Domain.Prestataire
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Prestataire</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PrestataireNom)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PrestataireNom)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PrestatairePhoto)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PrestatairePhoto)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PrestataireTel)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PrestataireTel)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Appreciation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Appreciation)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TarifHoraire)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TarifHoraire)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Specialite)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Specialite.Description)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.PrestataireId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

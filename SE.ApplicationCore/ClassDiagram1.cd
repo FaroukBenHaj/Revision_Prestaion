@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SE.ApplicationCore.Domain.Client">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Members>
+      <Property Name="Prestations" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAgAAAAAAAACAAAAACACAAQAAAAAA=</HashCode>
+      <FileName>Domain\Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Prestations" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SE.ApplicationCore.Domain.Prestataire">
+    <Position X="5" Y="0.5" Width="2" />
+    <Members>
+      <Property Name="Prestations" Hidden="true" />
+      <Property Name="Specialite" Hidden="true" />
+      <Property Name="SpecialiteFK" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>IAAAAAIQAAAAAAAAIAAAEAAAAAAAgAADAAAAAgAAAAA=</HashCode>
+      <FileName>Domain\Prestataire.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Prestations" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SE.ApplicationCore.Domain.Prestation">
+    <Position X="2.5" Y="3" Width="2" />
+    <Members>
+      <Property Name="Client" Hidden="true" />
+      <Property Name="ClientFK" Hidden="true" />
+      <Property Name="Prestataire" Hidden="true" />
+      <Property Name="PrestataireFK" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAgAAAAAABQAAAAAAAAAAgQ=</HashCode>
+      <FileName>Domain\Prestation.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Client" />
+      <Property Name="Prestataire" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SE.ApplicationCore.Domain.Specialite">
+    <Position X="7.75" Y="0.75" Width="1.75" />
+    <Members>
+      <Property Name="Prestataires" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgCAAAAAAgAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Specialite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SE.ApplicationCore.Domain.Intitule">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAARAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Specialite.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

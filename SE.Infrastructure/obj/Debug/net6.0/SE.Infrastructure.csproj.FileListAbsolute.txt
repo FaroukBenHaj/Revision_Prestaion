@@ -1,0 +1,51 @@
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.deps.json
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.runtimeconfig.json
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.dll
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.pdb
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.ApplicationCore.dll
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.ApplicationCore.pdb
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.csproj.CopyComplete
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.dll
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\refint\SE.Infrastructure.dll
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.pdb
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\ref\SE.Infrastructure.dll
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.dll
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\refint\SE.Infrastructure.dll
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.pdb
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.deps.json
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.runtimeconfig.json
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.dll
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.pdb
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.ApplicationCore.dll
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\bin\Debug\net6.0\SE.ApplicationCore.pdb
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.csproj.CopyComplete
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.genruntimeconfig.cache
+C:\Users\Asus\Downloads\BeautySolution\BeautySolution\SE.Infrastructure\obj\Debug\net6.0\ref\SE.Infrastructure.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.deps.json
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.runtimeconfig.json
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\bin\Debug\net6.0\SE.Infrastructure.pdb
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\bin\Debug\net6.0\SE.ApplicationCore.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\bin\Debug\net6.0\SE.ApplicationCore.pdb
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.AssemblyInfo.cs
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infra.8DDDA4AE.Up2Date
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\refint\SE.Infrastructure.dll
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.pdb
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\SE.Infrastructure.genruntimeconfig.cache
+C:\Users\medfa\Desktop\Cycle_ingenieur\Esprit\4SAE5\Arch S1\Revision\Correction\Examen_Prestation\PrestationSolution (1)\PrestationSolution\SE.Infrastructure\obj\Debug\net6.0\ref\SE.Infrastructure.dll
